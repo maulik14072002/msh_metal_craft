@@ -1,4 +1,4 @@
-# robots.txt for Sojitra Industries
+# robots.txt for MSH Metal Craft
 
 # Allow all search engines to crawl all pages
 User-agent: *
